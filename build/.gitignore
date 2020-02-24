@@ -1,0 +1,10 @@
+bin/
+build/
+lib/
+CMakeFiles/
+Makefile
+cmake_install.cmake
+.vscode/
+*.dylib
+prebuilt
+CMakeCache.txt
